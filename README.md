@@ -30,4 +30,5 @@ These are prefixed with "btf:" and their purpose is explained below.
 ## Changelog
 | Date | Changes |
 |---|---|
+| 2018-12-18 | Updates to conform with the Modelling Spec V2 |
 | 2018-07-03 | Initial version published |
